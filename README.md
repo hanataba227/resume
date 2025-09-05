@@ -11,7 +11,7 @@ permalink: /
 <object data="CV_Lim%20HuiJin_HanaTana.pdf"
         type="application/pdf"
         width="100%" height="800">
-  <a href="CV_Lim%20HuiJin_HanaTana.pdf">Download the English CV (PDF)</a>
+  <a href="CV_Lim%20HuiJin_HanaTana.pdf">English CV (PDF)</a>
 </object>
 
 ## 한국어 이력서
@@ -19,5 +19,5 @@ permalink: /
 <object data="임희진_이력서.pdf"
         type="application/pdf"
         width="100%" height="800">
-  <a href="임희진_이력서.pdf">한글 이력서 다운로드 (PDF)</a>
+  <a href="임희진_이력서.pdf">한글 이력서 (PDF)</a>
 </object>
