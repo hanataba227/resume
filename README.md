@@ -8,7 +8,7 @@ permalink: /
 
 ## English CV
 
-<object data="CV_Lim%20HuiJin_HanaTana.pdf"
+<object data="CV_LimHuiJin_HanaTana.pdf"
         type="application/pdf"
         width="100%" height="800">
   <a href="CV_Lim%20HuiJin_HanaTana.pdf">English CV (PDF)</a>
